@@ -1,0 +1,199 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:#DBBADD ;
+  
+}
+#conten_1 {
+    width: 30%;
+    height: 625px;
+    background-color:#c66ca5;
+    float: left;
+    margin-left: 10px;
+}
+#conten_2 {
+    width: 33%;
+    height: 625px;
+    background-color: #c66ca5;
+    float: left;
+    margin-left: 10px;
+}
+#conten_3 {
+    width: 34%;
+    height: 625px;
+    background-color: #c66ca5;
+    float: left;
+    margin-left: 10px;
+
+}
+#conten_1 .img {
+    display: flex;
+    top: 3%;
+    right: 60%;
+    width: 162px;
+    height: 208px;
+    border-radius: 100%;
+    overflow: hidden;
+    margin: 4;
+}
+#conten_1 .img img {
+    width: 172px;
+    height: 230px;
+}
+#conten_1 .p_1 {
+    color: rgba(6, 6, 135, 0.968);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    font-weight: bolder;
+    line-height: 0;
+    text-align: center;
+     
+}
+#conten_1 .p_2, .p_3, .p_4, .p_5 {
+    color: rgba(6, 6, 135, 0.968);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 1px;
+    text-align: center;
+     
+}
+#conten_1 .personal {
+    color: #0711CE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #FFF9FB solid;
+}
+#conten_1 .descrip {
+    color: rgba(0, 0, 12, 0.968);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: center;
+ }
+#conten_2 .tec_1 {
+    color: #0711CE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #FFF9FB solid;
+}
+#conten_2 .tec_2, .tec_3, .tec_4 {
+    color: rgba(0, 0, 10, 0.968);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 1px;
+    text-align: center;
+    white-space: 3px;
+    margin-top: 10px;
+}
+#conten_2 .tec_5, .tec_6, .tec_7 {
+    width: 450px;
+    color: rgba(0, 0, 10, 0.968);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 1px;
+    text-align: center;
+    margin-top: 10;
+}
+#conten_2 .tec_8, .tec_9, .tec_10 {
+    width: 450px;
+    color: rgba(0, 0, 10, 0.968);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    line-height: 1px;
+    text-align: center;
+    margin-top: 10;
+} 
+#conten_2 .tech {
+    color: #0711CE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #FFF9FB solid;
+}
+#conten_2 .descrip {
+    color: #01010c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 0;
+}
+#conten_2 .contain_1 {
+    color: #0711CE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #FFF9FB solid;
+}
+#conten_3 .write {
+    color: #0711CE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #FFF9FB solid;
+}
+#conten_3 .tex_1, .tex_2, .tex_3, .tex_4, .tex_5 {
+    color: #00010d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    line-height: 1px;
+    text-align: center;
+    margin-top: 10;
+}
+#conten_3 .englys .text_1, .text_2, .text_3, .text_4, .text_5 {
+    color: #00010d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    line-height: 1px;
+    text-align: center;
+    margin-top: 10;
+}
+#conten_3 .estudios {
+    color: #0711CE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #FFF9FB solid; 
+}
+#conten_3 .nivel, .secud, .year, .preg, .univer, .fech {
+    color: #00010d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    line-height: 1px;
+    text-align: center;
+    margin-top: 10;
+}
+#conten_3 .laboral {
+    color: #0711CE;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: center;
+    font-weight: bolder;
+    border-bottom: 2px #FFF9FB solid; 
+}
+#conten_3 .proyect, .organ, .stack, .logros, .fecha {
+    color: #00010d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    line-height: 1px;
+    text-align: center;
+    margin-top: 10;
+}
+
+
+
+
+    
+
+
+    
+    
+    
+   
